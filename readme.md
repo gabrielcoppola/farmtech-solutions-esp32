@@ -1,7 +1,7 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+    <a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
 </p>
 
 <br>
@@ -120,7 +120,7 @@ Veja a demonstração completa de funcionamento neste vídeo no YouTube.
 
 - **Simulação Wokwi:** [Acesse aqui](https://wokwi.com/projects/444825921859865601)
 - **Vídeo Demonstrativo:** [Youtube](https://youtu.be/XHSX82LDZh0)
-- **Repositório GitHub:** Código completo
+- **Repositório GitHub:** [Código completo](https://github.com/gabrielcoppola/farmtech-solutions-esp32)
 
 ## 📊 Referências Técnicas
 
